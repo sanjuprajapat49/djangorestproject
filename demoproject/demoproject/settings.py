@@ -93,7 +93,7 @@ DATABASES = {
 }
 
 
-
+# new changes
 
 # DATABASES = {
 #     'default': {
